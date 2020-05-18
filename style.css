@@ -1,0 +1,30 @@
+header{
+    background: repeating-linear-gradient(45deg, #606dbc, #606dbc 10px, #465298 10px, #465298 20px);
+}
+h1{
+text-align: center;
+    color: aliceblue;
+}
+body{
+    background: linear-gradient(to right, #F6EFD2, #CEAD78);
+}
+ul.nav{
+    margin-left: 0px;
+    padding-left: 0px;
+    list-style: none;
+    color: aliceblue;
+}
+.nav li {
+    float: left;
+}
+ul.nav a {
+    display: block;
+    width: 5em;
+    padding:10px;
+    margin:5px;
+    background: repeating-linear-gradient(45deg, #606dbc, #606dbc 10px, #465298 10px, #465298 20px);
+    border: 1px dashed #333;
+    text-decoration-color: aliceblue;
+    color: #333;
+    text-align: center;
+}
