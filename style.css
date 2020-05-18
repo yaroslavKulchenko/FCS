@@ -57,7 +57,18 @@ h3{
 
 div.block1 img{
     width: 500px;
+    height: 500px;
 }
 div.block2 img{
     width: 500px;
+    height: 500px;
+}
+.block1 {
+    width: 50%;
+    float: right;
+}
+.block2 {
+    width: 50%;
+    float: left;
+
 }
